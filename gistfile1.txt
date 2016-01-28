@@ -1,0 +1,28 @@
+Alfred         http://www.alfredapp.com/
+Shiftit        http://code.google.com/p/shiftit/
+Spectacle      http://spectacleapp.com/
+Adium          http://adium.im/
+Dropbox        https://www.dropbox.com/
+VMware Fusion  http://www.vmware.com/products/fusion/overview.html
+Teleport       http://abyssoft.com/software/teleport/
+TextWrangler   http://www.barebones.com/products/textwrangler/
+Skype          http://www.skype.com/
+iTerm2         http://www.iterm2.com/
+Homebrew       http://mxcl.github.com/homebrew/
+Cyberduck      http://cyberduck.ch/
+Colloquy       http://colloquy.info/
+Growl          http://growl.info/
+GitX           http://github.com/rowanj/gitx
+HandBrake      http://handbrake.fr/
+VLC            http://www.videolan.org/vlc/
+Calibre        http://calibre-ebook.com/
+GrabBox        http://grabbox.devsoft.no/
+Mou            http://mouapp.com/
+Dash           http://kapeli.com/dash
+
+--------------------------------------------
+App Store
+--------------------------------------------
+Cloud App
+Caffeine
+Moom
